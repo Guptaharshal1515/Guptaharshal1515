@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Guptaharshal1515
-- 👀 I’m interested in Cyber Security and Blockchain Technology
+- 👀 I’m Enthusiast in Cybersecurity, Cloud Technologies, Offensive Security, Blockchain & Cryptocurrencies
 - 🌱 I’m currently in 12th Grade and learning about Blockchain.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 [How to reach me ...](https://www.linkedin.com/in/harshal-gupta-a27914287/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
