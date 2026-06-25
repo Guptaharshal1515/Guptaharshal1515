@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Guptaharshal1515<br>- 👀 I’m Enthusiast in Cybersecurity, Cloud Technologies, Offensive Security, Blockchain & Cryptocurrencies<br>- 🌱 I’m currently in 1st year at Rashtriya Raksha University, Gandhinagar. <br>- 💞️ I’m looking to collaborate on offensive security.<br>- 📫 [How to reach me ...](https://www.linkedin.com/in/harshal-gupta-a27914287/)<br>- 😄 Pronouns: He/him
+- 👋 Hi, I’m @Guptaharshal1515<br>- 👀 I’m Enthusiast in Cybersecurity, Cloud Technologies, Offensive Security, Blockchain & Cryptocurrencies<br>- 🌱 I’m currently in 2nd year at Rashtriya Raksha University, Gandhinagar. <br>- 💞️ I’m looking to collaborate on offensive security.<br>- 📫 [How to reach me ...](https://www.linkedin.com/in/harshal-gupta-a27914287/)<br>- 😄 Pronouns: He/him
 
 
 ## 🌐 Socials:
