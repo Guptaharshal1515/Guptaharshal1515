@@ -32,7 +32,7 @@ BOUNDARY    Authorized testing and responsible disclosure
 ## `focus areas`
 
 <p align="center">
-  <img src="./assets/skill-matrix.svg" alt="Skill focus matrix for Cybersecurity, Blockchain and Web3, AI, and FinTech. This is a map of interests, not a proficiency rating." width="100%" />
+  <img src="https://github.com/Guptaharshal1515/Guptaharshal1515/blob/main/skill-matrix.svg" alt="Skill focus matrix for Cybersecurity, Blockchain and Web3, AI, and FinTech. This is a map of interests, not a proficiency rating." width="100%" />
 </p>
 
 > The matrix shows my current areas of focus, not a ranked or independently assessed proficiency score.
